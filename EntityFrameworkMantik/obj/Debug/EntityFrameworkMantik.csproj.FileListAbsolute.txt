@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\bin\Debug\EntityFrameworkMantik.exe.config
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\bin\Debug\EntityFrameworkMantik.exe
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\bin\Debug\EntityFrameworkMantik.pdb
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\obj\Debug\EntityFrameworkMantik.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\obj\Debug\EntityFrameworkMantik.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\obj\Debug\EntityFrameworkMantik.csproj.CopyComplete
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\obj\Debug\EntityFrameworkMantik.exe
+C:\Users\hp\Desktop\Entity Framework Mantık\EntityFrameworkMantik\obj\Debug\EntityFrameworkMantik.pdb
